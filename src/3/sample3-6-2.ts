@@ -9,4 +9,3 @@ const nested = {
 const { num, obj: { foo } } = nested;
 console.log(num);
 console.log(foo);
-console.log(obj); // obj is not defined 

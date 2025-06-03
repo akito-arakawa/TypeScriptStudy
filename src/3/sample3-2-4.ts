@@ -9,3 +9,4 @@ const object: FooBarObject = {
 };
 
 console.log(object.foo); // hello
+console.log(object.bar); // 123

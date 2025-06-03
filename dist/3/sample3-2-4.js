@@ -4,3 +4,4 @@ const object = {
     bar: 123
 };
 console.log(object.foo); // hello
+console.log(object.bar); // 123
